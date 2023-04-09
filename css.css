@@ -7,7 +7,7 @@
  .hero{
      height: 100vh;
      width: 100%;
-     background-image: url(https://user-images.githubusercontent.com/113748954/230795181-e9f264b4-4faa-45d6-a1f1-ded6a39802a2.jpg);                                                                        
+     background-image: url(../img/background.png);                                                                            
      background-size: cover;
      background-position: center;
  }
